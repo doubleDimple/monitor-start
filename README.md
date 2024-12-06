@@ -84,7 +84,7 @@
 
 五:启动
 
-  5.1:给oci-start.sh 执行权限添加
+  5.1:给monitor-start.sh 执行权限添加
   chmod +x monitor-start.sh
 
   ./monitor-start.sh update   # 自动更新（如果服务在运行会自动重启）
