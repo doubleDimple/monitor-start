@@ -63,7 +63,7 @@
                 -p 9898:9898 \
                 -v /root/monitor-start-docker/data:/monitor-start/data \
                 -v /root/monitor-start-docker/logs:/monitor-start/logs \
-                -e SERVER_PORT=9856 \
+                -e SERVER_PORT=9898 \
                 -e DATA_PATH=/monitor-start/data \
                 -e LOG_HOME=/monitor-start/logs \
                 --rm \
