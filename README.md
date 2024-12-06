@@ -44,6 +44,10 @@
         3.2.1:下载运行脚本
     
           wget -N --no-check-certificate "https://github.com/doubleDimple/monitor-start/releases/download/v-1.0.1/monitor-start.sh" && chmod +x monitor-start.sh
+          
+        3.2.2:下载jar包
+    
+          wget -N --no-check-certificate "https://github.com/doubleDimple/monitor-start/releases/download/v-1.0.1/monitor-start-release.jar"
       
     二: docker部署
 
