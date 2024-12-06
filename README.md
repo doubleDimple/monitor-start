@@ -38,12 +38,10 @@
    一: 脚本部署
 
       3.1:登录linux服务器,切换到root用户下.
-  
-      3.2:创建文件夹 mkdir -p oci-start && cd oci-start
-  
-      3.3:下载部署包文件
+    
+      3.2:下载部署包文件
       
-        3.3.1:下载运行脚本
+        3.2.1:下载运行脚本
     
           wget -N --no-check-certificate "https://github.com/doubleDimple/monitor-start/releases/download/v-1.0.1/monitor-start.sh" && chmod +x monitor-start.sh
       
